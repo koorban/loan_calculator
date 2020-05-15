@@ -1,0 +1,44 @@
+body {
+    background-color: #da8a35;
+}
+
+.container {
+    padding-top: 150px;
+}
+
+form {
+    background-color: white;
+    border-radius: .25em;
+}
+
+form h1 {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.input-group {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+}
+
+.btn-custom {
+    border-color: #da8a35;
+}
+
+#spinner {
+    display: none;
+    text-align: center;
+}
+
+#results {
+    display: none;
+    padding-top: 2em;
+}
+
+#results h2 {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
